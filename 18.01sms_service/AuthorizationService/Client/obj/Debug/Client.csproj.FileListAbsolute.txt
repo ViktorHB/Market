@@ -1,0 +1,14 @@
+D:\radchenko\18.01\AuthorizationService\Client\bin\Debug\Client.exe.config
+D:\radchenko\18.01\AuthorizationService\Client\bin\Debug\Client.exe
+D:\radchenko\18.01\AuthorizationService\Client\bin\Debug\Client.pdb
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\MainWindow.g.cs
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\App.g.cs
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client_MarkupCompile.cache
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client_MarkupCompile.lref
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\MainWindow.baml
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.g.resources
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.Properties.Resources.resources
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.exe
+D:\radchenko\18.01\AuthorizationService\Client\obj\Debug\Client.pdb

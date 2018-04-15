@@ -1,0 +1,1 @@
+D:\radchenko\18.01\SmsService\SmsService\bin\Debug\SmsService.exe.config

@@ -1,0 +1,14 @@
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\obj\Debug\AutoService.csprojResolveAssemblyReference.cache
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\obj\Debug\MyService.exe
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\obj\Debug\MyService.pdb
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\MyService.exe.config
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\MyService.exe
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\MyService.pdb
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\EntityFramework.dll
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\Service.exe
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\Lib_SMS.dll
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\Service.pdb
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\EntityFramework.xml
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\MyService\bin\Debug\Lib_SMS.pdb

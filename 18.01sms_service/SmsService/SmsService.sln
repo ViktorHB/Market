@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "SmsService\Client.csproj", "{955AF820-8BD2-4E89-86F9-E2162F009E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib SMS", "..\smslib\SMSLib\Lib SMS.csproj", "{A8DF5834-A3AA-488E-8E2D-D689900E461D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{19462580-DE55-496F-8EB9-CEFB988E3F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955AF820-8BD2-4E89-86F9-E2162F009E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955AF820-8BD2-4E89-86F9-E2162F009E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955AF820-8BD2-4E89-86F9-E2162F009E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955AF820-8BD2-4E89-86F9-E2162F009E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DF5834-A3AA-488E-8E2D-D689900E461D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DF5834-A3AA-488E-8E2D-D689900E461D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DF5834-A3AA-488E-8E2D-D689900E461D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DF5834-A3AA-488E-8E2D-D689900E461D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19462580-DE55-496F-8EB9-CEFB988E3F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19462580-DE55-496F-8EB9-CEFB988E3F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19462580-DE55-496F-8EB9-CEFB988E3F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19462580-DE55-496F-8EB9-CEFB988E3F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

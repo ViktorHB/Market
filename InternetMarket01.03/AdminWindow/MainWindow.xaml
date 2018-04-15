@@ -1,0 +1,216 @@
+﻿<Window x:Class="AdminWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdminWindow"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="600">
+    <Window.DataContext>
+        <local:AdminWindowViewModel/>
+    </Window.DataContext>
+    <Grid>
+
+        <TabControl SelectedIndex="{Binding SelectetTabIndex}">
+            <TabItem Header="EditOrders" HorizontalAlignment="Left" Width="93">
+                <DataGrid ItemsSource="{Binding Orders}" SelectedItem="{Binding SelectedOrder, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="20" BorderBrush="Black" BorderThickness="2" CanUserAddRows="False" CanUserDeleteRows="False" AutoGenerateColumns="False">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="CellEditEnding">
+                            <i:InvokeCommandAction Command="{Binding DataBaseSaveOrdersCommand}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="User Id:" Binding="{Binding id_user}" MinWidth="100"/>
+                        <DataGridTextColumn Header="Product Id:" Binding="{Binding id_product}" MinWidth="100"/>
+                        <DataGridTextColumn Header="Delivery State Id:" Binding="{Binding id_state}" MinWidth="100"/>
+                    </DataGrid.Columns>
+                    
+                </DataGrid> 
+            </TabItem>
+            <!--x,cfgnhlxfnghn-->
+            <TabItem Header="AddProduct">
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <StackPanel Grid.Column="0">
+
+                        <TextBlock Text="Here you can add the product:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                        <TextBlock Margin="10" Text="Title:"/>
+                        <TextBox Margin="5" Width="100" HorizontalAlignment="Left" Text="{Binding AddProductTitle, UpdateSourceTrigger=PropertyChanged}"/>
+
+                        <TextBlock Margin="10" Text="Catalog:"/>
+                        <ComboBox ItemsSource="{Binding Catalogs}" SelectedItem="{Binding AddProductCatalog, UpdateSourceTrigger=PropertyChanged}" Margin="10" Width="130" HorizontalAlignment="Left"/>
+
+                        <TextBlock Margin="10" Text="Url (128x128) :"/>
+                        <TextBox Margin="5" Width="200" HorizontalAlignment="Left" Text="{Binding AddProductUrl, UpdateSourceTrigger=PropertyChanged}"/>
+
+                        <TextBlock Margin="10" Text="Price:"/>
+                        <TextBox Margin="5" Width="100" HorizontalAlignment="Left" Text="{Binding AddProductPrice, UpdateSourceTrigger=PropertyChanged}"/>
+
+                        <StackPanel Orientation="Horizontal">
+                            <Button Command="{Binding AddProductAddCommand}" Content="Add Product" Margin="30" HorizontalAlignment="Left"/>
+                            <Button Command="{Binding AddProductCancelCommand}" Content="Cancel" Margin="30" HorizontalAlignment="Left"/>
+                        </StackPanel>
+
+                        <TextBox Text="{Binding AddingProductStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="Here you can delete the product:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                        <TextBlock Margin="10" Text="Choose the product to delete:"/>
+
+                        <ComboBox ItemsSource="{Binding Products}"  SelectedItem="{Binding SelectedProductToDelete, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" ToolTip="Products:" Margin="5"/>
+
+                        <StackPanel Orientation="Horizontal" Margin="30">
+                            <Button Command="{Binding DeleteProductCommand}" Content="Delete Product"/>
+                            <Button Command="{Binding CancelDeletingProductCommand}" Content="Cancel" Margin="100 0 0 0"/>
+                        </StackPanel>
+
+                        <TextBox Text="{Binding DeletingProductStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+                    </StackPanel>
+                    
+                </Grid>
+                    
+                    
+                
+            </TabItem>
+
+            <TabItem Header="Add Catalog">
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    
+                <StackPanel Grid.Column="0">
+                        <TextBlock Text="Here you can add the catalog:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                        <TextBlock Margin="10" Text="Title:"/>
+                <TextBox Margin="5" Width="100" HorizontalAlignment="Left" Text="{Binding AddCatalogTitle, UpdateSourceTrigger=PropertyChanged}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Command="{Binding AddCatalogCommand}" Content="Add Catalog" Margin="30" HorizontalAlignment="Left"/>
+                        <Button Command="{Binding AddCatalogCancelCommand}" Content="Cancel" Margin="30" HorizontalAlignment="Left"/>
+                    </StackPanel>
+
+                        <TextBox Text="{Binding AddingCatalogStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="Here you can delete the catalog:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                        <TextBlock Margin="10" Text="Choose the catalog to delete:"/>
+
+                        <ComboBox ItemsSource="{Binding Catalogs}"  SelectedItem="{Binding SelectedCatalogToDelete, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" ToolTip="Catalogs:" Margin="5"/>
+
+                        <StackPanel Orientation="Horizontal" Margin="30">
+                            <Button Command="{Binding DeleteCatalogCommand}" Content="Delete Catalog"/>
+                            <Button Command="{Binding CancelDeletingCatalogCommand}" Content="Cancel" Margin="100 0 0 0"/>
+                        </StackPanel>
+
+                        <TextBox Text="{Binding DeletingCatalogStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+
+                    </StackPanel>
+
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Add User">
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    
+                <StackPanel Grid.Column="0">
+                        <TextBlock Text="Here you can add the user:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                    <TextBlock Margin="5" Text="PhoneNumber: "/>
+                    <TextBox Margin="5" Width="150" HorizontalAlignment="Left" Text="{Binding AddUserPhone, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Margin="5" Text="Password: "/>
+                    <TextBox Margin="5" Width="150" HorizontalAlignment="Left" Text="{Binding AddUserPassword, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Margin="5" Text="Email: "/>
+                    <TextBox Margin="5" Width="150" HorizontalAlignment="Left" Text="{Binding AddUserEmail, UpdateSourceTrigger=PropertyChanged}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Command="{Binding AddUserAddCommand}" Content="Add User" Margin="30" HorizontalAlignment="Left"/>
+                        <Button Command="{Binding AddUserCancelCommand}" Content="Cancel" Margin="30" HorizontalAlignment="Left"/>
+                    </StackPanel>
+                    
+                    <TextBox Text="{Binding AddingUserStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+
+                </StackPanel>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="Here you can remove the user:" HorizontalAlignment="Center" TextDecorations="Underline" Margin="5"/>
+
+                        <TextBlock Margin="10" Text="Choose the user to delete:"/>
+
+                        <ComboBox ItemsSource="{Binding Users}"  SelectedItem="{Binding SelectedUserToDelete, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" ToolTip="Catalogs:" Margin="5"/>
+
+                        <StackPanel Orientation="Horizontal" Margin="30">
+                            <Button Command="{Binding DeleteUserCommand}" Content="Delete User"/>
+                            <Button Command="{Binding CancelDeletingUserCommand}" Content="Cancel" Margin="100 0 0 0"/>
+                        </StackPanel>
+
+                        <TextBox Text="{Binding DeletingCatalogStatusText, UpdateSourceTrigger=PropertyChanged}" Margin="20" Width="150" IsReadOnly="True"/>
+
+                    </StackPanel>
+                    
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Edit Product">
+                <DataGrid ItemsSource="{Binding Products}" SelectedItem="{Binding SelectedProduct, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="20" BorderBrush="Black" BorderThickness="2" CanUserAddRows="False" CanUserDeleteRows="False" AutoGenerateColumns="False">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="CellEditEnding">
+                            <i:InvokeCommandAction Command="{Binding DataBaseSaveCommand}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Title:" Binding="{ Binding title}"/>
+                        <DataGridTextColumn Header="Catalog ID:" Binding="{ Binding id_catalog}"/>
+                        <DataGridTextColumn Header="Price:" Binding="{ Binding price}"/>
+                        <DataGridTextColumn Header="Url:" Binding="{ Binding url}"/>
+                    </DataGrid.Columns>
+                    
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Edit User">
+                <DataGrid ItemsSource="{Binding Users}" SelectedItem="{Binding SelectedUser, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="20" BorderBrush="Black" BorderThickness="2" CanUserAddRows="False" CanUserDeleteRows="False" AutoGenerateColumns="False">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="CellEditEnding">
+                            <i:InvokeCommandAction Command="{Binding DataBaseSaveCommand}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="UserPhone:" Binding="{Binding phone}" MinWidth="200"/>
+                        <DataGridTextColumn Header="Email:" Binding="{Binding email}" MinWidth="200"/>
+                        
+                    </DataGrid.Columns>
+                    
+                    
+                </DataGrid>
+            </TabItem>
+            
+        </TabControl>
+        
+    </Grid>
+</Window>

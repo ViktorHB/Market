@@ -1,0 +1,167 @@
+Select * from market.Users
+
+DROP TABLE market.Catalog
+DROP TABLE market.Access
+DROP TABLE market.Orders
+DROP TABLE market.OrderState
+DROP TABLE market.Product
+DROP TABLE market.Users
+
+/****** Object:  Table [market].[Users]    Script Date: 05.03.2018 15:48:02 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [market].Orders
+([id] [int] IDENTITY(1,1) NOT NULL,
+[id_user] int foreign key references market.Users(id), 
+[id_product] int foreign key references market.Product(id), 
+[id_state] int foreign key references market.OrderState(id), 
+[date] SmallDatetime,
+[count] int ,
+[full_cost] float 
+		   )
+
+
+CREATE TABLE [market].[Users](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[phone] [varchar](15) NULL,
+	[password] [varchar](50) NULL,
+	[email] [varchar](50) NULL,
+	[id_accessstatud] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY],
+UNIQUE NONCLUSTERED 
+(
+	[email] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY],
+UNIQUE NONCLUSTERED 
+(
+	[phone] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [market].[Users]  WITH CHECK ADD FOREIGN KEY([id_accessstatud])
+REFERENCES [market].[Access] ([id])
+GO
+
+
+/****** Object:  Table [market].[Access]    Script Date: 05.03.2018 15:49:58 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[Access](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [market].[Access]    Script Date: 05.03.2018 15:49:58 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[Access](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+/****** Object:  Table [market].[Catalog]    Script Date: 05.03.2018 15:50:28 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[Catalog](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+
+/****** Object:  Table [market].[OrderState]    Script Date: 05.03.2018 15:50:51 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[OrderState](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [market].[Product]    Script Date: 05.03.2018 15:51:05 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[Product](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+	[id_catalog] [int] NULL,
+	[url] [varchar](max) NULL,
+	[price] [float] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+ALTER TABLE [market].[Product]  WITH CHECK ADD FOREIGN KEY([id_catalog])
+REFERENCES [market].[Catalog] ([id])
+GO
+
+/****** Object:  Table [market].[OrderState]    Script Date: 05.03.2018 15:51:22 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [market].[OrderState](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[title] [varchar](20) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+
+

@@ -1,0 +1,14 @@
+D:\radchenko\18.01\SmsService\SmsService\bin\Debug\SmsService.exe.config
+D:\radchenko\18.01\SmsService\SmsService\bin\Debug\SmsService.exe
+D:\radchenko\18.01\SmsService\SmsService\bin\Debug\SmsService.pdb
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\MainWindow.g.cs
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\App.g.cs
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService_MarkupCompile.cache
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService_MarkupCompile.lref
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\MainWindow.baml
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService.g.resources
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService.Properties.Resources.resources
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService.exe
+D:\radchenko\18.01\SmsService\SmsService\obj\Debug\SmsService.pdb

@@ -1,0 +1,406 @@
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe.config
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\STEP\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe.config
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\_ITSTEP\ДЗ\Совместные проэкты\TeamProject .NET 1.2.1\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.exe.config
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\radchenko\proj28-03\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\App.g.cs
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.exe
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.exe
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\AdminWindow.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\System.Windows.Interactivity.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\MWVMLib.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\DataBase.dll.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.g.cs
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow_MarkupCompile.lref
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\MainWindow.baml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.g.resources
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.Properties.Resources.resources
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.GenerateResource.Cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\AdminWindow\obj\Debug\AdminWindow.csproj.CoreCompileInputs.cache

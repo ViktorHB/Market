@@ -1,0 +1,10 @@
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\MyService.exe.config
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\MyService.exe
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\MyService.pdb
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\EntityFramework.dll
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\EntityFramework.SqlServer.dll
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\EntityFramework.xml
+D:\radchenko\18.01\AuthorizationService\MyService\bin\Debug\EntityFramework.SqlServer.xml
+D:\radchenko\18.01\AuthorizationService\MyService\obj\Debug\MyService.csprojResolveAssemblyReference.cache
+D:\radchenko\18.01\AuthorizationService\MyService\obj\Debug\MyService.exe
+D:\radchenko\18.01\AuthorizationService\MyService\obj\Debug\MyService.pdb

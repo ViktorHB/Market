@@ -1,0 +1,8 @@
+D:\radchenko\18.01\SmsService\Service\bin\Debug\Service.exe.config
+D:\radchenko\18.01\SmsService\Service\bin\Debug\Service.exe
+D:\radchenko\18.01\SmsService\Service\bin\Debug\Service.pdb
+D:\radchenko\18.01\SmsService\Service\bin\Debug\Lib_SMS.dll
+D:\radchenko\18.01\SmsService\Service\bin\Debug\Lib_SMS.pdb
+D:\radchenko\18.01\SmsService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\radchenko\18.01\SmsService\Service\obj\Debug\Service.exe
+D:\radchenko\18.01\SmsService\Service\obj\Debug\Service.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RegistrationWindow.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RegistrationWindow_localhostRegistration_SignUpService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:3075/SignUpService.svc</Value>
+    </Setting>
+    <Setting Name="RegistrationWindow_localhostSendSms_SmsService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:3075/SmsService.svc</Value>
+    </Setting>
+    <Setting Name="RegistrationWindow_localhostAuth_AuthorizationService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:3075/AuthorizationService.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

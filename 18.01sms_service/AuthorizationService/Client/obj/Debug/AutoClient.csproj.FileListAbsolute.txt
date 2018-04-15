@@ -1,0 +1,14 @@
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\bin\Debug\Client.exe.config
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\bin\Debug\Client.exe
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\bin\Debug\Client.pdb
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\MainWindow.g.cs
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\App.g.cs
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client_MarkupCompile.cache
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client_MarkupCompile.lref
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\MainWindow.baml
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client.g.resources
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client.Properties.Resources.resources
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\AutoClient.csproj.GenerateResource.Cache
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client.exe
+D:\radchenko\wcf\23.01hosting\18.01sms_service\AuthorizationService\Client\obj\Debug\Client.pdb

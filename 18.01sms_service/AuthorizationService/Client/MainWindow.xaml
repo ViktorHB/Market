@@ -1,0 +1,22 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Login:" Foreground="BurlyWood" Margin="5"/>
+            <TextBox Name="tb_login" Margin="5" Background="Bisque" MinWidth="150" Text="+380"/>
+            <TextBlock Text="Password:" Foreground="Chocolate" Margin="5"/>
+            <TextBox Name="tb_password" Margin="5" Background="LightBlue" MinWidth="150" AcceptsReturn="True" />
+            <Button Content="Sign In" Margin="5" Background="DimGray" Foreground="White" Name="button_sign_in" Click="button_sign_in_Click"/>
+            <TextBlock Text="If you are not registered: ->" Foreground="Chocolate" Margin="5"/>
+            <Button Content="Sign Up" Margin="5" Background="DimGray" Foreground="White" Name="button_sign_up" Click="button_sign_up_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

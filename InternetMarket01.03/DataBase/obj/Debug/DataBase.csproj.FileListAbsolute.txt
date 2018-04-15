@@ -1,0 +1,32 @@
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll.config
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\DataBase.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\obj\Debug\DataBase.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\DataBase\obj\Debug\DataBase.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\DataBase.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\obj\Debug\DataBase.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\DataBase\obj\Debug\DataBase.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\DataBase.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\DataBase.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\obj\Debug\DataBase.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\DataBase\obj\Debug\DataBase.pdb

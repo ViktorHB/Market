@@ -1,0 +1,199 @@
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\MarketProject13-03New\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\STEP\TeamProject.NETVSTS\17-03ProjectVersion\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csproj.CoreCompileInputs.cache
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\Project20-03Version\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.pdb
+D:\_TeamProject\MarketProject\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.pdb
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+C:\Users\student.LAN\Desktop\zz\TeamProject .NET\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.pdb
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\radchenko\TeamProject\2703remadeUI\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.pdb
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\radchenko\proj28-03\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\ApplicationInsights.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\NewWcfGlobalService.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.pdb
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\DataBase.dll.config
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\EntityFramework.SqlServer.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.DependencyCollector.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.Web.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.AI.WindowsServer.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\bin\Microsoft.ApplicationInsights.xml
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csprojResolveAssemblyReference.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.csproj.CoreCompileInputs.cache
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.dll
+D:\STEP\TeamProject .NET\30.03almostfinished\InternetMarket01.03\NewWcfGlobalService\obj\Debug\NewWcfGlobalService.pdb
